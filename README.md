@@ -1,5 +1,5 @@
 # custom-lovelace-ui-components
-A collection of custom Lovelace UI components for Home Assistant to enhance your smart home dashboards. Includes a weather card, multi-room temperature tracker, and energy usage gauge. Visit Domotix Labs for more [Home Assistant solutions](https://domotixlabs.com) 
+A collection of custom Lovelace UI components for Home Assistant to enhance your smart [home assistant dashboards](https://domotixlabs.com/home-assistant-dashboard-development-services/). Includes a weather card, multi-room temperature tracker, and energy usage gauge. 
 Available Components
 1. Weather Card
 A custom card that provides detailed weather forecasts, including:
